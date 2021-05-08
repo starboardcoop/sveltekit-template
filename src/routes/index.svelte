@@ -1,1 +1,5 @@
-<h1 class="p-4 bg-green-800 text-white text-3xl text-center font-bold">Hello, world!</h1>
+<script>
+    import Heading from "$lib/Heading.svelte";
+</script>
+
+<Heading>Hello, World!</Heading>
